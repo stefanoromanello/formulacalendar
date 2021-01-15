@@ -1,0 +1,75 @@
+{
+    "next_race": {
+        "one": "Prossima gara",
+        "other": "Prossime gare"
+    },
+    "past_race": {
+        "one": "Gara passata",
+        "other": "Gare passate"
+    },
+    "calendar": "Calendario",
+    "standings": "Classifiche",
+    "drivers": "Piloti",
+    "driver": "Pilota",
+    "constructors": "Costruttori",
+    "race": "Gara",
+    "fp1": "PL1",
+    "fp2": "PL2",
+    "fp3": "PL3",
+    "qualifying": "Qualifiche",
+    "no_races_left": "Nessuna gara rimanente per questa stagione",
+    "season_not_started": "La stagione non è ancora cominciata!",
+    "race_starts": "La gara inizia tra",
+    "quali_starts": "La qualifica inizia tra",
+    "quali_result": "Risultato qualifiche",
+    "hide_cal": "Nascondi calendario",
+    "show_cal": "Mostra calendario",
+    "show_full_quali": "Mostra risultato qualifiche",
+    "hide_full_quali": "Nascondi risultato qualifiche",
+    "calendar_hour_at": "alle",
+    "location": "Località",
+    "no_drivers": "Errore nel caricaricare i dettagli dei piloti",
+    "no_constructors": "Errore nel caricare i dettagli dei costruttori",
+    "constructors_not_available": "La classifica costruttori non è disponibile.\nAggiorna l'app ad inizio stagione.", 
+    "drivers_not_available": "La classifica piloti non è disponibile.\nAggiorna l'app ad inizio stagione.", 
+    "infoButton": {
+        "races_in_timezone": "Tutte le gare sono in orario italiano.",
+        "tbc_meaning": "TBC significa \"Da confermare\"",
+        "quali_switchtile": "Timer qualifiche",
+        "quali_desc_switchtile": "Il timer mostra prima il tempo rimanente per la qualifica e poi quello per la gara."
+    },
+    "close": "Chiudi",
+    "error": "Errore",
+    "verifying": "Verificando",
+    "premiumButton": {
+        "remove_ads": "Donazione",
+        "resture_pur": "Ripristina acquisto",
+        "pending": "Attendere",
+        "purchase_pending": "La donazione è in corso.\nIl processo può durare fino a 24 ore. Riavvia l'applicazione periodicamente per validare l'acquisto.",
+        "already_owned": "Possiedi già questo prodotto o Google sta processando il pagamento. Il processo può durare più di 24 ore.",
+        "error_occoured": "Errore durante la verifica dei prodotti disponibili. Per cortesia riavvia l'app e controlla di aver effettuato il login sul Play Store.",
+        "purchase_restored": "Acquisto ripristinato",
+        "no_restore": "Non hai effettuato alcun acquisto. Se pensi che questo sia un errore contatta lo sviluppatore.",
+        "verifying_pur": "Verficando il tuo acquisto",
+        "thanks_pur": "Grazie per aver donato!",
+        "playstore_error": "Errore del Play Store. Non puoi attualmente donare.",
+        "thanks": "Grazie!",
+        "thanksMessage": "Grazie per aver donato a Formula Calendar."
+    },
+    "raceResult": {
+        "notFound": "Risultati non trovati",
+        "loading": "Caricamento risultato gara...",
+        "1st": "1°",
+        "2nd": "2°",
+        "3rd": "3°"
+    },
+    "login": {
+        "loading": "Caricamento dati...",
+        "error": "Errore. Controlla la presenza di aggiornamenti.",
+        "nointernet": "Controlla la tua connessione internet."
+    },
+    "retry": "Riprova",
+    "loading": "Caricamento",
+    "points": "{}pt"
+
+}

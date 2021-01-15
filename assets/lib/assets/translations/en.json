@@ -1,0 +1,74 @@
+{
+    "next_race": {
+        "one": "Next race",
+        "other": "Next races"
+    },
+    "past_race": {
+        "one": "Past race",
+        "other": "Past races"
+    },
+    "calendar": "Calendar",
+    "standings": "Standings",
+    "drivers": "Drivers",
+    "driver": "Driver",
+    "constructors": "Constructors",
+    "race": "Race",
+    "qualifying": "Qualifying",
+    "fp1": "FP1",
+    "fp2": "FP2",
+    "fp3": "FP3",
+    "no_races_left": "No more races for this season.",
+    "season_not_started": "The season is not started yet!",
+    "race_starts": "Race starts in",
+    "quali_starts": "Qualifying starts in",
+    "hide_cal": "Hide calendar",
+    "show_cal": "Show calendar",
+    "quali_result": "Qualifying results",
+    "show_full_quali": "Show qualifying results",
+    "hide_full_quali": "Hide qualifying results",
+    "location": "Location",
+    "no_drivers": "Error loading drivers details",
+    "no_constructors": "Error loading constructors details", 
+    "constructors_not_available": "Constructors standings is not available.\nUpdate the app when the season starts.", 
+    "drivers_not_available": "Drivers standings is not available.\nUpdate the app when the season starts.",
+    "calendar_hour_at": "at",
+    "infoButton": {
+        "races_in_timezone": "All the race times are in your timezone.",
+        "tbc_meaning": "TBC means \"To Be Confirmed\"",
+        "quali_switchtile": "Qualifying countdown",
+        "quali_desc_switchtile": "The countdown shows first the remaning time for the qualifying session and then for the race."
+    },
+    "close": "Close",
+    "error": "Error",
+    "verifying": "Verifying",
+    "premiumButton": {
+        "remove_ads": "Donate",
+        "resture_pur": "Restore purchase",
+        "pending": "Pending",
+        "purchase_pending": "Your donation is in progress.\nThe process can take up to 24 hours. Restart the app periodically to validate your purchase.",
+        "already_owned": "You already own this item or Google is processing the payment. This can take up to 24 hours. Please don't buy other products while this is in progress.",
+        "error_occoured": "Error occoured while parsing the avaible products.\nPlease restart the app and check your Play Store login.",
+        "purchase_restored": "Purchase restored",
+        "no_restore": "There is no purchase to restore. If you think this is a mistake please contact the developer.",
+        "verifying_pur": "Verifying your purchase",
+        "thanks_pur": "Thanks for supporting Formula Calendar!",
+        "playstore_error": "Play Store error. You can't currently buy any support for the app.",
+        "thanks": "Thanks!",
+        "thanksMessage": "Thanks for donating to Formula Calendar."
+    },
+    "raceResult": {
+        "notFound": "Results not found",
+        "loading": "Loading race result...",
+        "1st": "1st",
+        "2nd": "2nd",
+        "3rd": "3rd"
+    },
+    "login": {
+        "loading": "Loading data...",
+        "error": "Error. Check for updates.",
+        "nointernet": "Check your internet connection."
+    },
+    "retry": "Retry",
+    "loading": "Loading",
+    "points": "{}pts"
+}
